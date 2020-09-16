@@ -1,3 +1,5 @@
+Original repo : https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-AMT-Discovery
+
 # Teaching-HEIGVD-AMT-Discovery
 
 ## Introduction
